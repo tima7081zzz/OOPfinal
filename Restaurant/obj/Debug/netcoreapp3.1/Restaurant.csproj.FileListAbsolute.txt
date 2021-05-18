@@ -1,0 +1,9 @@
+E:\ПРАГРАММИСТЪ\Course_Work\CourseWork\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+E:\ПРАГРАММИСТЪ\Course_Work\CourseWork\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+E:\ПРАГРАММИСТЪ\Course_Work\CourseWork\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+E:\ПРАГРАММИСТЪ\Course_Work\CourseWork\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+E:\ПРАГРАММИСТЪ\Course_Work\CourseWork\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+E:\ПРАГРАММИСТЪ\Course_Work\CourseWork\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+E:\ПРАГРАММИСТЪ\Course_Work\CourseWork\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+E:\ПРАГРАММИСТЪ\Course_Work\CourseWork\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+E:\ПРАГРАММИСТЪ\Course_Work\CourseWork\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
